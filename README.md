@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This report evaluates the performance of a diabetes prediction algorithm using various classifiers.
+This report evaluates the performance of a diabetes prediction model using various classifiers.
 
 ## Exploratory Analysis
 
